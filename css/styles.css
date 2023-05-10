@@ -8,6 +8,30 @@
     justify-content: center;
    
 }
+header>div:first-child{
+    background-color: transparent;
+    /* background-color: rgb(255, 253, 253); */
+    height: calc(16px*2 + 20px);
+}
+header>div:first-child{ 
+    background-color: white;
+    position: fixed;
+    width: 100%;
+}
+header>div:nth-child(2){ 
+    position: fixed;
+    transform: translateY(100%);
+    width: 100%;
+}
+header a:visited{ 
+    color: black;
+}
+header>div:last-child{
+    display: flex;
+
+    height: 56px;
+    background-color:transparent;
+}
 html,body{
     scroll-snap-type: y mandatory;
    
