@@ -170,3 +170,27 @@ main>div:last-child{
     background-image: url(/img/7.jpeg);
     
 }
+footer{
+    position: relative;
+    transform: translateY(-330%);
+}
+footer span{
+    font-size: 12px;
+    margin-right: 12px;
+}
+a,a:visited,a:link{
+    text-decoration: none;
+    color: black;
+}
+main>div>div{
+    margin: 0;
+}
+main>div>div:nth-child(2) a {
+    display: flex;
+    text-decoration: underline;
+    flex-direction: column;
+    position: absolute;
+    transform: translateY(-180%);
+    text-align: center;
+
+}
