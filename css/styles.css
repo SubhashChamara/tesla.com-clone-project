@@ -10,7 +10,7 @@
 }
 header>div:first-child{
     background-color: transparent;
-    /* background-color: rgb(255, 253, 253); */
+    
     height: calc(16px*2 + 20px);
 }
 header>div:first-child{ 
@@ -35,6 +35,47 @@ header>div:last-child{
 html,body{
     scroll-snap-type: y mandatory;
    
+}
+#logo svg{
+    width: 152px;
+    height: 24px;
+    padding: 0 16px;
+}
+#logo {
+
+    height: 56px;
+    text-align: center;
+    padding-left:32px ;
+    
+}
+#center-menu{
+  
+    line-height:calc(16px*2 + 20px);
+    
+    padding-left:calc(321px - 160px - 16px) ;
+    
+}
+
+#center-menu a ,#right-menu a{
+    padding: 4px 15px;
+    text-decoration: none;
+}
+
+
+#right-menu{
+   
+    line-height:calc(16px*2 + 20px);
+    margin-left:83px;
+}
+#center-menu a:hover ,#right-menu a:hover{ 
+   
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0,0.1);
+    
+}
+.link-styles :visited{
+    text-decoration: none;
+    color: black;
 }
 
 .image{
