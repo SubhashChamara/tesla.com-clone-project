@@ -4,7 +4,7 @@ Welcome to the Tesla.com Clone project! This project was developed during my tra
 
 ## Project Overview
 
-In this project, I aimed to create a comprehensive clone of the Tesla.com website using pure HTML5 and CSS3. By focusing on these technologies, I challenged myself to understand the core concepts of web development and create a visually appealing and responsive user interface.
+In this project, I aimed to create a comprehensive clone of the Tesla.com website using pure HTML5 and CSS3. By focusing on these technologies, I challenged myself to understand the core concepts of web development and create a visually appealing user interface.
 
 ## Features
 
@@ -12,8 +12,7 @@ Throughout the project, I employed the following techniques and features:
 
 - Utilized the latest HTML5 semantic tags for structuring the web pages.
 - Implemented CSS3 to style the web pages, ensuring a modern and visually appealing design.
-- Developed responsive layouts using media queries and flexbox/grid systems for optimal viewing across devices.
-- Incorporated CSS animations and transitions to enhance user interaction and create a dynamic experience.
+- Developed layouts using media queries and flexbox/grid systems.
 - Applied accessibility best practices to ensure the website is usable by a wide range of users.
 - Followed coding standards and naming conventions for clean and maintainable code.
 
@@ -30,6 +29,11 @@ https://github.com/SubhashChamara/tesla.com-clone-project.git
 npx live-server
  ```
 3. Explore the different sections of the Tesla.com clone and interact with the user interface.
+
+Project Demo
+
+https://github.com/SubhashChamara/tesla.com-clone-project/assets/112160411/44d35b06-1905-480b-9026-209305d2c3a0
+
 
 ## Future Improvements
 
@@ -49,9 +53,8 @@ If you have any questions, feedback, or would like to connect with me, please fe
 ## Follow Me
 Stay updated with my latest projects and connect with me on:
 
-GitHub:https://github.com/SubhashChamara
-LinkedIn:https://www.linkedin.com/in/subhash-chamara-udayanga-633578174/
-Twitter: https://twitter.com/chamara_subhash?t=e7Qt_Z5c0eEg426tqdXxrQ&s=09
+- GitHub:https://github.com/SubhashChamara
+- LinkedIn:https://www.linkedin.com/in/subhash-chamara-udayanga-633578174/
+- Twitter: https://twitter.com/chamara_subhash?t=e7Qt_Z5c0eEg426tqdXxrQ&s=09
 
-Thank you for your support and stay tuned for more exciting updates as I strive to innovate in the world of web development!
 
