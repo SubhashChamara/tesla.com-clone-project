@@ -22,8 +22,13 @@ Throughout the project, I employed the following techniques and features:
 To explore and experience this Tesla.com clone project, you can follow these steps:
 
 1. Clone the repository from GitHub: 
-
-2. Open the HTML files in your preferred web browser.
+ ```
+https://github.com/SubhashChamara/tesla.com-clone-project.git
+ ```
+2. Install the npx and run the live-server
+ ```
+npx live-server
+ ```
 3. Explore the different sections of the Tesla.com clone and interact with the user interface.
 
 ## Future Improvements
