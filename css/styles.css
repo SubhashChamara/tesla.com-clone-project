@@ -167,7 +167,7 @@ main>div:nth-child(6){
     
 }
 main>div:last-child{
-    background-image: url(img/7.jpeg);
+    background-image: url('../img/7.jpeg');
     
 }
 footer{
