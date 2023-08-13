@@ -34,6 +34,8 @@ Project Demo
 
 https://github.com/SubhashChamara/tesla.com-clone-project/assets/112160411/44d35b06-1905-480b-9026-209305d2c3a0
 
+### License
+This application is licensed under this [license](License.txt)
 
 ## Future Improvements
 
