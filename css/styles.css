@@ -85,7 +85,7 @@ html,body{
     scroll-snap-align: center;
 }
 main>div:first-child{
-    background-image: url(/img/1.jpeg);
+    background-image: url('img/1.jpeg');
     
 }
 main div div:first-child{
@@ -167,7 +167,7 @@ main>div:nth-child(6){
     
 }
 main>div:last-child{
-    background-image: url("img/7.jpeg");
+    background-image: url('img/7.jpeg');
     
 }
 footer{
