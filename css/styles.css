@@ -147,27 +147,27 @@ main div:nth-child(7) span>a:last-child{
     
 }
 main>div:nth-child(2){
-    background-image: url(img/2.jpeg);
+    background-image: url('img/2.jpeg');
     
 }
 main>div:nth-child(3){
-    background-image: url(img/3.jpeg);
+    background-image: url('img/3.jpeg');
     
 }
 main>div:nth-child(4){
-    background-image: url(img/4.jpeg);
+    background-image: url('img/4.jpeg');
     
 }
 main>div:nth-child(5){
-    background-image: url(img/5.jpeg);
+    background-image: url('img/5.jpeg');
     
 }
 main>div:nth-child(6){
-    background-image: url(img/6.webp);
+    background-image: url('img/6.webp');
     
 }
 main>div:last-child{
-    background-image: url(img/7.jpeg);
+    background-image: url('img/7.jpeg');
     
 }
 footer{
